@@ -19,7 +19,8 @@ ChaCha20-Project/
 ├─ webapp/           # Flask web app with drag & drop support
 │   ├─ server.py
 │   ├─ README.md     # Documentation about Flask setup and drag & drop interface
-
+|
+└─ LICENSE           
 ```
 ---
 
